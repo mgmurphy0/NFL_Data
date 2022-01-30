@@ -1,0 +1,6 @@
+README.md
+setup.py
+NFL_Analytics.egg-info/PKG-INFO
+NFL_Analytics.egg-info/SOURCES.txt
+NFL_Analytics.egg-info/dependency_links.txt
+NFL_Analytics.egg-info/top_level.txt
